@@ -8,9 +8,6 @@ npm install express body-parser cors
 npm install --save-dev typescript ts-node @types/node @types/express @types/cors
 
 ## After Installation
-### Run With npm scripts
-npm start
-
 ### Run Project (Without compile):
 npx ts-node src/app.ts
 
